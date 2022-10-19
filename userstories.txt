@@ -1,0 +1,6 @@
+CASE STUDY: Pigeon Courier System (PCS)
+
+In USA, there is a Pigeon Courier System which is available in various countries; they collect pet animals, parcels, letter, households, and containers and so on for transporting 
+purpose. Their main transport is based on air, water, and road, customer is bill based on weightage and space of occupancy of the goods. The billing system plays a key role; it 
+is based on weightage, distance of travel, country and their policies and changes based on country currency. PCS is looking for user-friendly software for their organization;
+please guide technical team for design and implementation of software.
